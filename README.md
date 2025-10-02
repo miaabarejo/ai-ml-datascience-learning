@@ -13,7 +13,7 @@ A collection of AI, ML, and Data Science projects showcasing skills in **Python,
 * **Programming:** Python
 * **Machine Learning:** TensorFlow, Scikit-learn
 * **Data Analysis:** Pandas, NumPy
-* **Visualization:** Matplotlib (and Seaborn later)
+* **Visualization:** Matplotlib
 
 ## 📂 Repository Structure
 
