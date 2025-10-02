@@ -17,7 +17,7 @@ A collection of AI, ML, and Data Science projects showcasing skills in **Python,
 
 ## 📂 Repository Structure
 
-* 01-pandas-/ → Pandas: basics, hands-on exercises, and practice notebooks
+* `01-pandas/` → Pandas: basics, hands-on exercises, and practice notebooks
 * `projects/` → End-to-end mini projects applying AI/ML concepts
 * `datasets/` → Sample datasets used for practice
 * `notes/` → Key learnings and references
